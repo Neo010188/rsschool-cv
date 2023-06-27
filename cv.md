@@ -44,3 +44,4 @@
 
 * #### English - A1
 * #### Russian - Native
+* #### French - A1
