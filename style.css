@@ -1,0 +1,18 @@
+@import "style.css";
+
+body {
+
+    background-image: url(https://wp-s.ru/wallpapers/12/13/533818864611990/graficheskij-chert-zh-na-sinem-fone.jpg);
+
+            background-size: no-repeat;
+
+            background-position: center;
+
+            background-size: cover;
+
+            height: 1920px;
+
+            width: 1080px;
+
+
+}
